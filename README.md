@@ -16,7 +16,7 @@ Projeto de uma landing page de produto desenvolvido durante as aulas sobre anima
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/prewiew.png" width="100%">
   <img alt="Preview do projeto desenvolvido." src=".github/preview1.png" width="100%">
   <img alt="Preview do projeto desenvolvido." src=".github/preview2.png" width="100%">
 </p>
